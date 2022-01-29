@@ -28,7 +28,7 @@ function App() {
         likes={likes}
       />
       <FriendList friends={friends} />
-      <StatisticsList title="Upload stats" stats={data} />
+      <StatisticsList title="" stats={data} />
       <TransactionList transactions={transactions} />
     </div>
   );
