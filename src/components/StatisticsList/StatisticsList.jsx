@@ -32,4 +32,5 @@ StatisticsList.propTypes = {
       id: PropTypes.string.isRequired,
     }),
   ),
+  title: PropTypes.string,
 };
